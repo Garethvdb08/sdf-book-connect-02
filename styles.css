@@ -41,3 +41,28 @@ body {
   object-fit: cover; /*Ensures the images fits the container while preserving the aspect ratio*/
   border-bottom: 1px solid #ddd; /*so that the images stand out a bit from the rest*/
 }
+
+.book-card .book-title {
+  font-size: 1.2rem;
+  margin: 10px 0;
+  color: #2c3e50
+}
+
+.book-card .book-author{
+  font-size: 1rem;
+  margin: 5px 0;
+  color: #8e44ad;
+
+}
+
+.book-card .book-info{
+   font-size: 0.9rem;
+   margin: 5px 0;
+   color: #7f8d8c;
+}
+
+.book-card .book-date {
+   font-size: 0.9rem;
+   margin: 5px 0;
+   color: #7f8d8c;
+}
