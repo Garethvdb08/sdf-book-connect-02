@@ -35,13 +35,6 @@ body {
 
 }
 
-.book-card img {
-  width: 100%;
-  height: 300px; /*set a fixed height*/
-  object-fit: cover; /*Ensures the images fits the container while preserving the aspect ratio*/
-  border-bottom: 1px solid #ddd; /*so that the images stand out a bit from the rest*/
-}
-
 .book-card .book-title {
   font-size: 1.2rem;
   margin: 10px 0;
