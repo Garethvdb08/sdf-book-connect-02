@@ -30,7 +30,7 @@ body {
 }
 
 .book-card:hover {
-  transform: translateY(-5px);
+  transform: translateY(-5px); /*negtative (translateY(-a)) means up and + means down*/
   box-shadow: 0 4px 8px rgb(0, 0, 0, 0.2);
 
 }
