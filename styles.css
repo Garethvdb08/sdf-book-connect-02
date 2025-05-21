@@ -34,3 +34,10 @@ body {
   box-shadow: 0 4px 8px rgb(0, 0, 0, 0.2);
 
 }
+
+.book-card img {
+  width: 100%;
+  height: 300px; /*set a fixed height*/
+  object-fit: cover; /*Ensures the images fits the container while preserving the aspect ratio*/
+  border-bottom: 1px solid #ddd; /*so that the images stand out a bit from the rest*/
+}
